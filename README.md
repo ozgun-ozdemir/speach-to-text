@@ -1,4 +1,4 @@
-# Speech Recognition Chatbot
+# Speech Recognition
 
 ## Features
 - **Voice Input**: Utilizes the microphone to capture audio.
