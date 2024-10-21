@@ -1,4 +1,5 @@
 # Speech Recognition
+This Python script implements a speech recognition feature that listens for user input through a microphone, transcribes it, and allows voice interaction until an exit command is given.
 
 ## Features
 - **Voice Input**: Utilizes the microphone to capture audio.
